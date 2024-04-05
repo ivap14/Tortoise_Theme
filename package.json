@@ -6,9 +6,17 @@
   "engines": {
     "vscode": "^1.88.0"
   },
+  "icon": "icon.png",
+  "author": {
+    "name": "Bubla"},
+
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivap14/Tortoise_Theme.git"
+  },
   "contributes": {
     "themes": [
       {
