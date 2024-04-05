@@ -18,7 +18,10 @@ Welcome to the Tortoise Theme by TortoiseCode! This theme offers a serene and na
 
 ## Screenshots 📸
 
-![Tortoise Theme Screenshot](https://example.com/tortoise-theme-screenshot.png)
+![Tortoise Theme Screenshot](Screenshot1.png)
+![Tortoise Theme Screenshot](Screenshot2.png)
+![Tortoise Theme Screenshot](Screenshot3.png)
+
 
 ## Feedback 💌
 
