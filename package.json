@@ -2,13 +2,14 @@
   "name": "tortoise-theme",
   "displayName": "Tortoise theme",
   "description": "Experience nature's harmony with the Tortoise Theme for Visual Studio Code. Its blend of green, orange, and purple tones offers a soothing coding environment. Enjoy enhanced readability and reduced eye strain. Customize to fit your workflow. Install now and code with tranquility.",
+  "publisher": "Bubbla",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
   },
   "icon": "icon.png",
   "author": {
-    "name": "Bubla"},
+    "name": "Bubbla"},
 
   "categories": [
     "Themes"
